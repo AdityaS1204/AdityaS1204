@@ -16,28 +16,6 @@
 
 ---
 
-## 🏗️ Projects  
-
-### 🎨 3D T-Shirt Design Site  
-- **Description:** Users can create custom 3D T-shirt designs with DALL-E AI integration.  
-- **Tech Stack:** React.js, Tailwind CSS.  
-
-### 👟 Nike-Inspired Site  
-- **Description:** A visually engaging e-commerce website for a Nike-inspired design.  
-- **Tech Stack:** React.js, Tailwind CSS.  
-
-### 💰 Cryptocurrency Tracker *(In Progress)*  
-- **Description:** Fetches cryptocurrency prices from CoinGecko API, allowing users to add coins to a watchlist and view market insights.  
-
----
-
-## 📜 Certifications  
-1. **ChatGPT Prompt Engineering for Developers** - DeepLearning.AI  
-2. **Open Source Models with Hugging Face** - DeepLearning.AI  
-
-
----
-
 ## 💡 Interests  
 - **Conversational AI**: Built projects integrating AI model APIs like OpenAI and Gemini.  
 - **Project-Based Learning**: Loves creating real-world applications to deepen technical knowledge.  
@@ -54,6 +32,7 @@
 ## 📫 Connect with Me  
 - **Email:** saditya2094@gmail.com  
 - **LinkedIn:** www.linkedin.com/in/aditya-singh-v  
+- **X:**  https://x.com/aaditya0124
 
 
 ---
