@@ -30,7 +30,7 @@
 ---
 
 ## 📫 Connect with Me  
-- **Email:** saditya2094@gmail.com  
+- **Email:** adityas.singh.tech@gmail.com  
 - **LinkedIn:** www.linkedin.com/in/aditya-singh-v  
 - **X:**  https://x.com/aaditya0124
 
