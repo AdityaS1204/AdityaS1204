@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aditya Singh!  
-🌐 **IT Engineering Student | Full-Stack Developer | AI & Web3 Enthusiast**  
+🌐 **IT Engineering Student | Full-Stack Developer | Learning AI/ML**  
 
 🎓 Pursuing **BTech in IT Engineering** at **G.H. Raisoni Institute of Technology and Management (2022-2026)**.  
 
