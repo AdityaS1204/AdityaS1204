@@ -29,7 +29,7 @@
 
 ---
 
-Feel free to explore my repositories and reach out if you'd like to collaborate! Let's build something amazing together. 🚀  
+Feel free to explore my repositories and reach out if you'd like to collaborate!  
 
 
 <!---
