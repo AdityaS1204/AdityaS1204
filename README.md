@@ -10,23 +10,15 @@
 ## 🛠️ Tech Stack & Skills  
 ### Languages & Frameworks  
 - **Frontend:** React.js, Tailwind CSS, Three.js  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB, PostgreSQL  
-- **Blockchain:** Basic Web3 Development  
-
+- **Backend:** Node.js, Express.js 
+- **Database:** MongoDB, PostgreSQL
+  
 ---
 
 ## 💡 Interests  
 - **Conversational AI**: Built projects integrating AI model APIs like OpenAI and Gemini.  
-- **Project-Based Learning**: Loves creating real-world applications to deepen technical knowledge.  
-
----
-
-## 🌱 Currently Learning  
-- **PostgreSQL**
-- **Firebase** 
-
-
+- **Project-Based Learning**: Loves creating real-world applications to deepen technical knowledge.
+- 
 ---
 
 ## 📫 Connect with Me  
