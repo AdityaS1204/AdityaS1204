@@ -3,7 +3,7 @@
 
 🎓 Pursuing **BTech in IT Engineering** at **G.H. Raisoni Institute of Technology and Management (2022-2026)**.  
 
-🚀 Passionate about building innovative solutions, leveraging cutting-edge technologies like **AI, Blockchain, and Full-Stack Web Development**.  
+🚀 Passionate about building innovative solutions, leveraging cutting-edge technologies like **AI, and Full-Stack Web Development**.  
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## 💡 Interests  
 - **Conversational AI**: Built projects integrating AI model APIs like OpenAI and Gemini.  
-- **Project-Based Learning**: Loves creating real-world applications to deepen technical knowledge.
+- **Project-Based Learning**: creating real-world applications to deepen technical knowledge.
 - 
 ---
 
